@@ -68,7 +68,7 @@ def filter_lunch(time, mindist, maxdist):
 def format_slack_message(pick):
     message = {
         'response_type': 'in_channel',
-        'text': "Slunch at: " + pick["name"],
+        'text': ":bofur: Slunch at: " + pick["name"],
         'attachments': []
     }
 
