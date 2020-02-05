@@ -100,7 +100,7 @@ def slunch(request):
         elif "NEAR" in query or "CORNER" in query:
             maxdist = 700
         elif "MEDIUM" in query or "MODERATE" in query:
-            maxdist = 2200
+            maxdist = 1200
         elif "FAR" in query:
             maxdist = 20000
             mindist = 701
