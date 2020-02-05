@@ -1,0 +1,251 @@
+[
+    {
+        "name": "Kuma",
+        "open": 1100,
+        "close": 2200,
+        "distance": 550
+    },
+    {
+        "name": "Kuma",
+        "open": 1100,
+        "close": 2200,
+        "distance": 550
+    },
+    {
+        "name": "Take it Away",
+        "open": 1000,
+        "close": 1600,
+        "distance": 500
+    },
+    {
+        "name": "Bodos",
+        "open": 700,
+        "close": 2000,
+        "distance": 400
+    },
+    {
+        "name": "Roots",
+        "open": 1030,
+        "close": 2130,
+        "distance": 650,
+        "notes": "Order through app"
+    },
+    {
+        "name": "Got Dumplings",
+        "open": 1100,
+        "close": 2200,
+        "distance": 260,
+        "notes": "Food truck + retail location"
+    },
+    {
+        "name": "Mellow Mushroom",
+        "open": 1100,
+        "close": 2400,
+        "distance": 700
+    },
+    {
+        "name": "Thyme and Co",
+        "open": 1100,
+        "close": 2000,
+        "distance": 650
+    },
+    {
+        "name": "Afghan Kabob",
+        "open": 1100,
+        "close": 2145,
+        "distance": 1000
+    },
+    {
+        "name": "Garden Room",
+        "open": 1130,
+        "close": 1400,
+        "distance": 190
+    },
+    {
+        "name": "Crozet Pizza at Buddhist Biker Bar",
+        "open": 1100,
+        "close": 2400,
+        "distance": 190
+    },
+    {
+        "name": "Five Guys",
+        "open": 1100,
+        "close": 2200,
+        "distance": 78
+    },
+    {
+        "name": "Chick-Fil-A",
+        "open": 1030,
+        "close": 2000,
+        "distance": 78
+    },
+    {
+        "name": "Tacos Gomez",
+        "open": 1100,
+        "close": 1900,
+        "distance": 5300
+    },
+    {
+        "name": "Cafe Andrade",
+        "open": 700,
+        "close": 1700,
+        "distance": 5700,
+        "notes": "Often closed; call first."
+    },
+    {
+        "name": "Al Carbon Chicken",
+        "open": 1100,
+        "close": 2100,
+        "distance": 6900
+    },
+    {
+        "name": "La Michoacana",
+        "open": 1100,
+        "close": 2100,
+        "distance": 4400
+    },
+    {
+        "name": "The Pie Chest",
+        "open": 800,
+        "close": 1800,
+        "distance": 3400
+    },
+    {
+        "name": "Monsoon Siam",
+        "open": 1100,
+        "close": 1430,
+        "distance": 3200
+    },
+    {
+        "name": "Revolutionary Soup",
+        "open": 1000,
+        "close": 2000,
+        "distance": 3400
+    },
+    {
+        "name": "Peloton Station",
+        "open": 1100,
+        "close": 2200,
+        "distance": 1200
+    },
+    {
+        "name": "Red Hub",
+        "open": 1100,
+        "close": 1500,
+        "distance": 1200
+    },
+    {
+        "name": "Sticks Kebob",
+        "open": 1100,
+        "close": 2100,
+        "distance": 1800
+    },
+    {
+        "name": "MarieBette",
+        "open": 700,
+        "close": 1830,
+        "distance": 2000
+    },
+    {
+        "name": "Ace Biscuit & Barbecue",
+        "open": 800,
+        "close": 1500,
+        "distance": 2300
+    },
+    {
+        "name": "Chipotle",
+        "open": 1045,
+        "close": 2000,
+        "distance": 1600
+    },
+    {
+        "name": "First Watch",
+        "open": 700,
+        "close": 1430,
+        "distance": 1900
+    },
+    {
+        "name": "CAVA",
+        "open": 1045,
+        "close": 2200,
+        "distance": 2100
+    },
+    {
+        "name": "Fry's Spring Station",
+        "open": 1130,
+        "close": 2100,
+        "distance": 1800
+    },
+    {
+        "name": "Farm Bell Kitchen",
+        "open": 800,
+        "close": 1400,
+        "distance": 900
+    },
+    {
+        "name": "Michael's Bistro",
+        "open": 1100,
+        "close": 2400,
+        "distance": 500
+    },
+    {
+        "name": "Boylan Heights",
+        "open": 1100,
+        "close": 2400,
+        "distance": 650
+    },
+    {
+        "name": "Poke Sushi Bowl",
+        "open": 1100,
+        "close": 2100,
+        "distance": 650
+    },
+    {
+        "name": "DOMA",
+        "open": 1100,
+        "close": 1400,
+        "distance": 1500
+    },
+    {
+        "name": "Blue Moon Diner",
+        "open": 800,
+        "close": 2200,
+        "distance": 1600
+    },
+    {
+        "name": "Basil",
+        "open": 1100,
+        "close": 2200,
+        "distance": 4300
+    },
+    {
+        "name": "Timberwood Tap House",
+        "open": 1100,
+        "close": 2300,
+        "distance": 4300
+    },
+    {
+        "name": "Mochiko",
+        "open": 1130,
+        "close": 2000,
+        "distance": 4300
+    },
+    {
+        "name": "Chimm",
+        "open": 1130,
+        "close": 1430,
+        "distance": 4300
+    },
+    {
+        "name": "Mezeh",
+        "open": 1130,
+        "close": 2200,
+        "distance": 3700
+    },
+    {
+        "name": "Burger Bach ",
+        "open": 1100,
+        "close": 2000,
+        "distance": 3800
+    }
+]
