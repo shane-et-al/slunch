@@ -38,6 +38,8 @@ with open('config.json', 'r') as f:
     data = f.read()
 config = json.loads(data)
 
+DOGS = [":bofur:", ":hazel_zoom:", ":maple_shake:"]
+
 # [START functions_verify_webhook]
 # Python 3+ version of https://github.com/slackapi/python-slack-events-api/blob/master/slackeventsapi/server.py
 def verify_signature(request):
@@ -66,9 +68,10 @@ def filter_lunch(time, mindist, maxdist):
 
 # [START functions_slack_format]
 def format_slack_message(pick):
+    dog = DOGS[random.randint(1, len(DOGS))-1]
     message = {
         'response_type': 'in_channel',
-        'text': ":bofur: Slunch at: " + pick["name"],
+        'text': dog+" Slunch at: " + pick["name"],
         'attachments': []
     }
 
